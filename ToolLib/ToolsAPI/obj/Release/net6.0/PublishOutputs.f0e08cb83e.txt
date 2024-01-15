@@ -1,0 +1,13 @@
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolsAPI.exe
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolsAPI.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolsAPI.deps.json
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolsAPI.runtimeconfig.json
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolsAPI.pdb
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolLib.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolsAPI\obj\Release\net6.0\PubTmp\Out\ToolLib.pdb

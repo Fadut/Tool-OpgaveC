@@ -1,0 +1,11 @@
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\bin\Debug\net6.0\ToolLib.deps.json
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\bin\Debug\net6.0\ToolLib.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\bin\Debug\net6.0\ToolLib.pdb
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ToolLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ToolLib.AssemblyInfoInputs.cache
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ToolLib.AssemblyInfo.cs
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ToolLib.csproj.CoreCompileInputs.cache
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ToolLib.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\refint\ToolLib.dll
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ToolLib.pdb
+C:\Users\Faton\source\repos\OpgaveC\ToolLib\ToolLib\obj\Debug\net6.0\ref\ToolLib.dll

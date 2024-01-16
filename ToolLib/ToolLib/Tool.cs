@@ -5,6 +5,7 @@
         public int Id { get; set; }
         public string Type { get; set; } // atleast 2 chars
         public int Price { get; set; }   // positive number
+        public string Brand { get; set; }
 
         public void ValidateType()
         {
